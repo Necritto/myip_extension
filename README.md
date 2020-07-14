@@ -1,1 +1,1 @@
-# The extension for Google Chrome will show your current IP
+The extension for Google Chrome will show your current IP
